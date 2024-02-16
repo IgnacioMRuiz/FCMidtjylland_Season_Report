@@ -1,6 +1,6 @@
 # Processed Data
 
-The `ProcessedData` folder contains transformed data files, which have been processed through scripts located in the `Scripts` folder. These scripts are designed to clean and prepare the raw data, making it suitable for analysis and visualization. There is a dedicated script for each data file, plus a Master script that orchestrates the execution of all individual scripts, ensuring a streamlined transformation process.
+This folder contains transformed data files, which have been processed through scripts located in the `Scripts` folder. These scripts are designed to clean and prepare the raw data, making it suitable for analysis and visualization. There is a dedicated script for each data file, plus a Master script that orchestrates the execution of all individual scripts, ensuring a streamlined transformation process.
 These files include:
 - `GPS Data.xlsx`
 - `Player Names Master.xlsx`
