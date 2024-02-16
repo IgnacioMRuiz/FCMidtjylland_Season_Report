@@ -72,3 +72,7 @@ The dashboards are designed to provide comprehensive insights, with worksheet fi
 
 - **FCM_Season_Report.twb**: The Tableau Desktop document.
 - **Sheet1+ (Varias conexiones).hyper**: Automatically generated upon data extraction for Tableau Public publishing.
+
+## Tableau Public Link
+[FCM Season Report - Team Physical Performance](https://public.tableau.com/views/FCM_Season_Report/TeamPhysicalPerformance?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
