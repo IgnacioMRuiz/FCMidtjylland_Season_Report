@@ -49,6 +49,19 @@ The script outputs a processed version of the player involvements data in Excel 
 
 ## Usage
 
-1. Ensure pandas is installed in your environment. If not, install it using pip:
-   ```bash
-   pip install pandas
+1. Ensure pandas is installed in your environment. If not, install it using pip: !pip install pandas
+2. Run the script within a Python environment. It will read the Players Involvements.xlsx file, perform the transformations, and output the processed data.
+3. The transformed data will be available at the specified output path in Excel format.
+
+## Dependencies
+
+- Python 3.x
+- pandas
+
+## Configuration
+
+No special configuration is needed beyond a standard Python environment with pandas installed.
+
+## Conclusion
+
+By systematically transforming and enriching player involvements data, this script unlocks new avenues for analysis, offering insights into player contributions, match outcomes, and competition dynamics. It's an essential tool for detailed sports analytics, particularly within the context of FCM's performance evaluation.
