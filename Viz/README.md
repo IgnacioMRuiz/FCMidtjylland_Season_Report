@@ -49,11 +49,11 @@ For the `GPS Data`, new metrics are calculated for `1st Half` and `2nd Half` usi
 - **Match Day**: `INDEX()` for counting match days.
 - **Physical KPIs**:
   - A parameter to create dynamic tables based on physical performance metrics like Accelerations, Decelerations, and Distance.
-  - CASE [Parámetros].[Physical KPIs]
+  - `CASE [Parámetros].[Physical KPIs]
     WHEN "Accelerations" THEN SUM([Accelerations])
     WHEN "Decelerations" THEN SUM([Decelerations])
     WHEN "Distance" THEN SUM([Distance])
-    END
+    END`
 
 ### Parameter Explanation
 
